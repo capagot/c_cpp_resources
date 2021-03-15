@@ -4,4 +4,6 @@
 
 [What Every Programmer Should Know About Memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf), by Ulrich Drepper.
 
-[System V Application Binary Interface, Version 1.0 - January 28, 2018](https://github.com/hjl-tools/x86-psABI/wiki/x86-64-psABI-1.0.pdf)
+[System V Application Binary Interface, Version 1.0 - January 28, 2018](https://github.com/hjl-tools/x86-psABI/wiki/x86-64-psABI-1.0.pdf).
+
+[The C++ Compilation Model And other Unixy bits & pieces. A tutorial.](https://david.rothlis.net/c/compilation_model), by [David Röthlisberger](https://david.rothlis.net).
